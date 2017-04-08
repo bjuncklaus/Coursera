@@ -1,0 +1,845 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="76d19dab-5d55-4717-8c63-d9504d6fe76a" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../UVA/CS1120/Red Belt/redbelt.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../../UVA/CS1120/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../../UVA/CS1120/get_images.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../../UVA/CS1120/graphics.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../../UVA/CS1120/mosaic.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../../UVA/CS1120/rotunda.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../../UVA/CS1120/testimage.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../../UVA/CS1120/turnin.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../../UVA/CS1120/Project3/curves.py" afterPath="$PROJECT_DIR$/../../../../UVA/CS1120/Project3/curves.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../../UVA/CS1120/Project3/lsystem.py" afterPath="$PROJECT_DIR$/../../../../UVA/CS1120/Project3/lsystem.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../../UVA/CS1120/Project3/project3.py" afterPath="$PROJECT_DIR$/../../../../UVA/CS1120/Project3/project3.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../../UVA/CS4710/HW1/Rule-based/.idea/Rule-based.iml" afterPath="$PROJECT_DIR$/../../../../UVA/CS4710/HW1/Rule-based/.idea/Rule-based.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../../UVA/CS4710/HW1/Rule-based/Main.py" afterPath="$PROJECT_DIR$/../../../../UVA/CS4710/HW1/Rule-based/Main.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../../../UVA/UVA_Game/.idea/UVA_Game.iml" afterPath="$PROJECT_DIR$/../../../../UVA/UVA_Game/.idea/UVA_Game.iml" />
+    </list>
+    <ignored path="1.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="1" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="convnetdesigner.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/convnetdesigner.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="249">
+              <caret line="340" column="29" selection-start-line="340" selection-start-column="29" selection-end-line="340" selection-end-column="29" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gif_generator.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/gif_generator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../UVA/CS4710/HW1/Rule-based" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/convolutional_network.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../../../../UVA/CS1120/Project5/game.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../../../../Machine Learning/starter.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/multilayer_perceptron.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../UVA/CS4710/HW4/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/getlabels.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/gif_generator.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/convolutional.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/convolutional_1.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/tensorboard.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../../../../UVA/CS1120/Project4/project4.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../../../../UVA/CS4710/HW3/main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/iris_csv.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/linear_regression_2.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/linear_regression_1.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../../../../UVA/CS4710/HW1/Rule-based/Main.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/convnetdesigner.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../../../../UVA/CS1120/Project5/squareboard.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../../../../UVA/CS1120/Project5/problem5.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../../../../UVA/CS1120/Project5/testgo.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../../../../UVA/CS1120/Project5/gamestate.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../../../../UVA/CS1120/Project5/board.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../../../../UVA/CS1120/Project5/go.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../../../../UVA/CS1120/Project3/project3.py" />
+        <option value="$PROJECT_DIR$/../../../../UVA/CS1120/Project3/curves.py" />
+        <option value="$PROJECT_DIR$/../../../../UVA/CS1120/Project4/project4.py" />
+        <option value="$PROJECT_DIR$/../../../../UVA/CS4710/HW3/main.py" />
+        <option value="$PROJECT_DIR$/../../../../UVA/CS4710/HW1/Rule-based/Main.py" />
+        <option value="$PROJECT_DIR$/../../../../UVA/CS1120/Project5/learningplayer.py" />
+        <option value="$PROJECT_DIR$/../../../../UVA/CS1120/Project5/main.py" />
+        <option value="$PROJECT_DIR$/../../../../UVA/CS1120/Project5/game.py" />
+        <option value="$PROJECT_DIR$/../../../../UVA/CS1120/Project5/tictactoe.py" />
+        <option value="$PROJECT_DIR$/../../../../UVA/CS1120/Project5/testgo.py" />
+        <option value="$PROJECT_DIR$/../../../../UVA/CS1120/Project5/problem5.py" />
+        <option value="$PROJECT_DIR$/../../../../UVA/CS1120/Project5/squareboard.py" />
+        <option value="$PROJECT_DIR$/../../../../UVA/CS1120/Project5/board.py" />
+        <option value="$PROJECT_DIR$/../../../../UVA/CS1120/Project5/go.py" />
+        <option value="$PROJECT_DIR$/../../../../UVA/CS4710/HW3/test.py" />
+        <option value="$PROJECT_DIR$/../../../../UVA/CS4710/Midterm3/test.py" />
+        <option value="$PROJECT_DIR$/../../../../UVA/CS4710/HW4/cousine.py" />
+        <option value="$PROJECT_DIR$/../../../../UVA/CS4710/HW4/recipes.csv" />
+        <option value="$PROJECT_DIR$/../../../../UVA/CS4710/HW4/main.py" />
+        <option value="$PROJECT_DIR$/../../../../UVA/CS4710/HW4/bayes.py" />
+        <option value="$PROJECT_DIR$/../../../../UVA/CS1120/Red Belt/redbelt.py" />
+        <option value="$PROJECT_DIR$/../../../../UVA/CS1120/Project6/charme.py" />
+        <option value="$PROJECT_DIR$/../../../../Machine Learning/Perceptron/feature.py" />
+        <option value="$PROJECT_DIR$/../../../../Machine Learning/Perceptron/outlier.py" />
+        <option value="$PROJECT_DIR$/../../../../Machine Learning/Perceptron/perceptron.py" />
+        <option value="$PROJECT_DIR$/../../../../Machine Learning/Perceptron/starter.py" />
+        <option value="$PROJECT_DIR$/../../../../Machine Learning/regression.py" />
+        <option value="$PROJECT_DIR$/../../../../Machine Learning/regression_2.py" />
+        <option value="$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/neares_neighbor.py" />
+        <option value="$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/logistic_regression.py" />
+        <option value="$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/multilayer_perceptron.py" />
+        <option value="$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/concolutional_network.py" />
+        <option value="$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/file_reading.py" />
+        <option value="$PROJECT_DIR$/../../../../Machine Learning/spiral.py" />
+        <option value="$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/cs-testing.csv" />
+        <option value="$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/tensorboard.py" />
+        <option value="$PROJECT_DIR$/../../../../Machine Learning/bar3D.py" />
+        <option value="$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/cs-training.csv" />
+        <option value="$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/iris_csv.py" />
+        <option value="$PROJECT_DIR$/../../../../Machine Learning/test.txt" />
+        <option value="$PROJECT_DIR$/../../../../Machine Learning/test_training.txt" />
+        <option value="$PROJECT_DIR$/../../../../Machine Learning/test_test.txt" />
+        <option value="$PROJECT_DIR$/../../../../Machine Learning/text_extractor.py" />
+        <option value="$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/convolutional_1.py" />
+        <option value="$PROJECT_DIR$/../../../../Machine Learning/starter.py" />
+        <option value="$PROJECT_DIR$/../../../../Machine Learning/images2gif.py" />
+        <option value="$PROJECT_DIR$/../../../../Machine Learning/getlabels.py" />
+        <option value="$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/getlabels.py" />
+        <option value="$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/gif_generator.py" />
+        <option value="$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/convolutional_network.py" />
+        <option value="$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/convnetdesigner.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="161" />
+    <option name="y" value="23" />
+    <option name="width" value="1279" />
+    <option name="height" value="823" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>General</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Drolivery" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Machine Learning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Machine Learning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Tensorflow" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Machine Learning" />
+    <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="SearchEverywhereHistoryKey" value="save_image&#9;null&#9;null&#10;random&#9;null&#9;null&#10;empty_positions&#9;null&#9;null&#10;emp&#9;null&#9;null&#10;place_object&#9;null&#9;null&#10;get_objec&#9;null&#9;null&#10;get_obje&#9;null&#9;null&#10;convert&#9;null&#9;null&#10;restart&#9;null&#9;null&#10;a&#9;FILE&#9;file:///Users/bjuncklaus/Dropbox/UVA/UVA_Game/README.md" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="1" sdk-home="$USER_HOME$/anaconda/bin/python">
+        <option name="mySdkHome" value="$USER_HOME$/anaconda/bin/python" />
+        <option name="myModuleName" value="1" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../../../../Machine Learning/Tensorflow" />
+      <recent name="$PROJECT_DIR$/../../../../Machine Learning" />
+      <recent name="$PROJECT_DIR$/../../../../Machine Learning/Perceptron" />
+      <recent name="$PROJECT_DIR$/../../../../UVA/CS4710/HW4" />
+      <recent name="$PROJECT_DIR$/../../../../UVA/CS1113/Drolivery" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../../../../UVA/CS1113/Drolivery" />
+      <recent name="$PROJECT_DIR$/../../../../UVA/CS1113/drolivery" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.convnetdesigner">
+    <configuration default="false" name="convnetdesigner" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../../Machine Learning/Tensorflow" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Machine Learning" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/convnetdesigner.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../../UVA/CS4710/HW4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="CS4710" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../../UVA/CS4710/HW4/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="tensorboard" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../../Machine Learning/Tensorflow" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Machine Learning" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/tensorboard.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="gif_generator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../../Machine Learning/Tensorflow" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Machine Learning" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/gif_generator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="convolutional_network" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../../Machine Learning/Tensorflow" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Machine Learning" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/convolutional_network.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="1" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="1" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="1" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="1" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="1" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="1" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="1" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.convnetdesigner" />
+      <item index="1" class="java.lang.String" itemvalue="Python.main" />
+      <item index="2" class="java.lang.String" itemvalue="Python.tensorboard" />
+      <item index="3" class="java.lang.String" itemvalue="Python.gif_generator" />
+      <item index="4" class="java.lang.String" itemvalue="Python.convolutional_network" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.convnetdesigner" />
+        <item index="1" class="java.lang.String" itemvalue="Python.gif_generator" />
+        <item index="2" class="java.lang.String" itemvalue="Python.convolutional_network" />
+        <item index="3" class="java.lang.String" itemvalue="Python.tensorboard" />
+        <item index="4" class="java.lang.String" itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76d19dab-5d55-4717-8c63-d9504d6fe76a" name="Default" comment="" />
+      <created>1446652181992</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1446652181992</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittest_test_go - 2016.04.11 at 11h 25m 34s.xml">
+      <configuration name="Unittest test_go" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_test_go - 2016.04.13 at 09h 27m 06s.xml">
+      <configuration name="Unittest test_go" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_test_go_(1) - 2016.04.13 at 09h 27m 31s.xml">
+      <configuration name="Unittest test_go (1)" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="161" y="23" width="1279" height="823" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14387918" sideWeight="0.49360147" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23874488" sideWeight="0.50528544" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32742155" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32605729" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287858" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2537517" sideWeight="0.4947146" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24960254" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287858" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14387918" sideWeight="0.50639856" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39972714" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="12" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/imgs/20160701-113950.png" />
+    <entry file="file://$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/imgs/20160701-114149.png" />
+    <entry file="file://$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/imgs/20160701-114324.png" />
+    <entry file="file://$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/imgs/20160701-114540.png" />
+    <entry file="file://$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/imgs/20160705-165409.png" />
+    <entry file="file://$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/getlabels.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#18#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/imgs/20160707-134243.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/imgs/20160707-134245.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/imgs/20160707-134248.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/imgs/20160707-134247.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/imgs/20160707-134246.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/imgs/20160707-134244.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/imgs/20160707-134242.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/imgs/20160707-134305.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/imgs/20160707-134258.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/imgs/20160707-134250.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/imgs/20160707-134304.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/imgs/20160707-134547.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/imgs/20160707-134553.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/imgs/20160707-134600.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/imgs/20160707-134806.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/imgs/20160707-134805.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/imgs/20160707-134804.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/imgs/20160707-134803.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/imgs/20160707-134802.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/imgs/20160707-134801.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/imgs/20160707-134800.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/imgs/20160707-134818.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/imgs/20160707-134817.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/imgs/20160707-134815.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/imgs/20160707-134810.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/imgs/20160707-134813.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/imgs/20160707-134819.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/imgs/20160707-134824.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/imgs/20160707-134826.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/imgs/20160707-134827.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/imgs/20160707-134828.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/imgs/20160707-134829.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/imgs/20160707-135039.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/imgs/20160707-135035.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/convolutional_network.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="885">
+          <caret line="107" column="0" selection-start-line="107" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/imgs/20160707-135600.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/imgs/20160707-135559.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/imgs/20160707-135945.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/imgs/20160707-135944.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/imgs/20160707-135943.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/imgs/20160707-135942.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/imgs/20160707-135941.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/imgs/20160707-135940.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/gif_generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../Machine Learning/Tensorflow/convnetdesigner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="340" column="29" selection-start-line="340" selection-start-column="29" selection-end-line="340" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

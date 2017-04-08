@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/1.iml" filepath="$PROJECT_DIR$/.idea/1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../UVA/CS1120/.idea/CS1120.iml" filepath="$PROJECT_DIR$/../../../../UVA/CS1120/.idea/CS1120.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../UVA/CS4710/.idea/CS4710.iml" filepath="$PROJECT_DIR$/../../../../UVA/CS4710/.idea/CS4710.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../Machine Learning/.idea/Machine Learning.iml" filepath="$PROJECT_DIR$/../../../../Machine Learning/.idea/Machine Learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../UVA/CS1113/OOExercises/.idea/OOExercises.iml" filepath="$PROJECT_DIR$/../../../../UVA/CS1113/OOExercises/.idea/OOExercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../UVA/CS1120/Project3/.idea/Project3.iml" filepath="$PROJECT_DIR$/../../../../UVA/CS1120/Project3/.idea/Project3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../UVA/CS4710/HW1/Rule-based/.idea/Rule-based.iml" filepath="$PROJECT_DIR$/../../../../UVA/CS4710/HW1/Rule-based/.idea/Rule-based.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../UVA/UVA_Game/.idea/UVA_Game.iml" filepath="$PROJECT_DIR$/../../../../UVA/UVA_Game/.idea/UVA_Game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../UVA/CS1113/Drolivery/.idea/drolivery.iml" filepath="$PROJECT_DIR$/../../../../UVA/CS1113/Drolivery/.idea/drolivery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../UVA/CS1113/hw1/.idea/hw1.iml" filepath="$PROJECT_DIR$/../../../../UVA/CS1113/hw1/.idea/hw1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../UVA/CS1113/cs1-sullivan/code/python/imageproc/.idea/imageproc.iml" filepath="$PROJECT_DIR$/../../../../UVA/CS1113/cs1-sullivan/code/python/imageproc/.idea/imageproc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../UVA/CS1113/simulation 2/.idea/simulation 2.iml" filepath="$PROJECT_DIR$/../../../../UVA/CS1113/simulation 2/.idea/simulation 2.iml" />
+    </modules>
+  </component>
+</project>
